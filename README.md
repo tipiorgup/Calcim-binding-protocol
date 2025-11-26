@@ -1,2 +1,1 @@
-# Calcim-binding-protocol
-Protocol for calcium binding sites testing
+This a group of inputs for calcium binding using Drude Prepper
